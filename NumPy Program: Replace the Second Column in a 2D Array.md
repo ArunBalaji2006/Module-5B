@@ -26,6 +26,7 @@ print(result)
 ```
 
 ## Output
+![439326579-56ee6af8-835c-4881-9f98-3188cd2ed32e](https://github.com/user-attachments/assets/c2749e4b-f610-429c-91a2-bd1c1ee1eb95)
 
 ## Result
 Thus,the program has been executed successfully.
